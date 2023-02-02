@@ -73,7 +73,7 @@ class Root extends Component {
                         <Route path="/404" component={ Error } />
                         <Route path="/location" component={ Location } />
                         <Route path="/shop" component={ Shop } />
-                        <Route path="/shop-grid" component={ ShopGrid } />
+                        <Route path="/all" component={ ShopGrid } />
                         <Route path="/shop-left-sidebar" component={ ShopLeftSidebar } />
                         <Route path="/shop-right-sidebar" component={ ShopRightSidebar } />
 

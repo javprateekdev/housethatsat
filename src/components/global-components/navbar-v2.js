@@ -55,7 +55,7 @@ class NavbarV2 extends Component {
 				</div>
 				{/* ltn__header-top-area end */}
 				{/* ltn__header-middle-area start */}
-				<div className="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-black" style={{background:"lightgray"}}>
+				<div className="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-black" style={{background:"#212529"}}>
 					<div className="container">
 					<div className="row">
 						<div className="col">
